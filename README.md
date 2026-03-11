@@ -115,8 +115,3 @@ Data augmentation consistently:
 - **Raises entropy** on forget samples → better unlearning response  
 
 This supports our claim that augmentations reshape the model’s confidence landscape in a way that improves selective forgetting **without retraining**.
-
----
-
-## 🗂 Repository Structure (Planned)
-
