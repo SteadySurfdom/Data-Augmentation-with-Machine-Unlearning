@@ -2,9 +2,9 @@
 
 ## 📄 Paper  
 **Does Audio Augmentation Aid Audio Unlearning? A Comprehensive Evaluation Across Methods**  
-*Moulik Gupta, Achyut Mani Tripathi, 2025 (Under Review at IEEE Interspeech)*  
+*Moulik Gupta, Achyut Mani Tripathi, 2025 (Under Review at Interspeech)*  
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/Interspeech submission.pdf>) [![Conference](https://img.shields.io/badge/IEEE-Interspeech-grey)]()
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/Interspeech submission.pdf>) [![Conference](https://img.shields.io/badge/Interspeech-grey)]()
 
 ---
 
