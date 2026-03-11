@@ -2,9 +2,9 @@
 
 ## 📄 Paper  
 **Does Audio Augmentation Aid Audio Unlearning? A Comprehensive Evaluation Across Methods**  
-*Moulik Gupta, Achyut Mani Tripathi, 2025 (Under Review at IEEE TASLP)*  
+*Moulik Gupta, Achyut Mani Tripathi, 2025 (Under Review at IEEE Interspeech)*  
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/TASLP submission.pdf>) [![Journal](https://img.shields.io/badge/IEEE-TASLP-grey)]()
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/Interspeech submission.pdf>) [![Conference](https://img.shields.io/badge/IEEE-Interspeech-grey)]()
 
 ---
 
@@ -71,7 +71,7 @@ Baseline-only benchmarks (no data augmentation):
 ---
 
 ### **Audio Augmentations (6 total)**
-Used only for the TASLP 3-model detailed study:
+Used only for the Interspeech 3-model detailed study:
 - No augmentation  
 - Time masking  
 - Frequency masking  
