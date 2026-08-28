@@ -71,7 +71,6 @@ Baseline-only benchmarks (no data augmentation):
 ---
 
 ### **Audio Augmentations (6 total)**
-Used only for the Interspeech 3-model detailed study:
 - No augmentation  
 - Time masking  
 - Frequency masking  
