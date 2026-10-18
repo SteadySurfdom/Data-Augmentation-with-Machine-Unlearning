@@ -4,7 +4,7 @@
 **Does Audio Augmentation Aid Audio Unlearning? A Comprehensive Evaluation Across Methods**  
 *Moulik Gupta, Achyut Mani Tripathi, 2025*  
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/Interspeech submission.pdf>) 
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/paperdoc.pdf>) 
 
 ---
 
